@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.NewsDisplay {
+  margin: 15px;
+  height: 120px;
+  width: 80px;
+  border: solid black;
+}
